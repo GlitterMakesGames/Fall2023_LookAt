@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Fall2023_LookAt_v1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{825CA591-81E6-412F-ACBB-6DE0E1DBADA5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Fall2023_LookAt_v1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Fall2023_LookAt_v1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{06BEEAA3-3459-4A95-A5DB-583930E9283D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Fall2023_LookAt_v1">
+      <UniqueIdentifier>{117C4EC8-25FC-4E03-90D7-0259256963BB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Fall2023_LookAt_v1\Fall2023_LookAt_v1.Build.cs">
+      <Filter>Source\Fall2023_LookAt_v1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Fall2023_LookAt_v1\Fall2023_LookAt_v1.cpp">
+      <Filter>Source\Fall2023_LookAt_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fall2023_LookAt_v1\Fall2023_LookAt_v1.h">
+      <Filter>Source\Fall2023_LookAt_v1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fall2023_LookAt_v1\Fall2023_LookAt_v1Character.cpp">
+      <Filter>Source\Fall2023_LookAt_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fall2023_LookAt_v1\Fall2023_LookAt_v1Character.h">
+      <Filter>Source\Fall2023_LookAt_v1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fall2023_LookAt_v1\Fall2023_LookAt_v1GameMode.cpp">
+      <Filter>Source\Fall2023_LookAt_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fall2023_LookAt_v1\Fall2023_LookAt_v1GameMode.h">
+      <Filter>Source\Fall2023_LookAt_v1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fall2023_LookAt_v1\Fall2023_LookAt_v1HUD.cpp">
+      <Filter>Source\Fall2023_LookAt_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fall2023_LookAt_v1\Fall2023_LookAt_v1HUD.h">
+      <Filter>Source\Fall2023_LookAt_v1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fall2023_LookAt_v1\Fall2023_LookAt_v1Projectile.cpp">
+      <Filter>Source\Fall2023_LookAt_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fall2023_LookAt_v1\Fall2023_LookAt_v1Projectile.h">
+      <Filter>Source\Fall2023_LookAt_v1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fall2023_LookAt_v1\Sensor.cpp">
+      <Filter>Source\Fall2023_LookAt_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fall2023_LookAt_v1\Sensor.h">
+      <Filter>Source\Fall2023_LookAt_v1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
