@@ -1,0 +1,11 @@
+C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v3\Intermediate\Build\Win64\UE4Editor\Development\Fall2023_LookAt_v1\Definitions.Fall2023_LookAt_v1.h
+C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v3\Source\Fall2023_LookAt_v1\Fall2023_LookAt_v1Projectile.h
+C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v3\Intermediate\Build\Win64\UE4Editor\Inc\Fall2023_LookAt_v1\Fall2023_LookAt_v1Projectile.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
