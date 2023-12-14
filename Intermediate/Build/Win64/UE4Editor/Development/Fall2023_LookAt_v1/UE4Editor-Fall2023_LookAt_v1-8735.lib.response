@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Fall2023_LookAt_v1-8735.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v2\Intermediate\Build\Win64\Fall2023_LookAt_v1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v2\Intermediate\Build\Win64\UE4Editor\Development\Fall2023_LookAt_v1\Fall2023_LookAt_v1.cpp.obj"
+"C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v2\Intermediate\Build\Win64\UE4Editor\Development\Fall2023_LookAt_v1\Fall2023_LookAt_v1Character.cpp.obj"
+"C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v2\Intermediate\Build\Win64\UE4Editor\Development\Fall2023_LookAt_v1\Fall2023_LookAt_v1GameMode.cpp.obj"
+"C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v2\Intermediate\Build\Win64\UE4Editor\Development\Fall2023_LookAt_v1\Fall2023_LookAt_v1HUD.cpp.obj"
+"C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v2\Intermediate\Build\Win64\UE4Editor\Development\Fall2023_LookAt_v1\Fall2023_LookAt_v1Projectile.cpp.obj"
+"C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v2\Intermediate\Build\Win64\UE4Editor\Development\Fall2023_LookAt_v1\Sensor.cpp.obj"
+"C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v2\Intermediate\Build\Win64\UE4Editor\Development\Fall2023_LookAt_v1\Fall2023_LookAt_v1.init.gen.cpp.obj"
+"C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v2\Intermediate\Build\Win64\UE4Editor\Development\Fall2023_LookAt_v1\Fall2023_LookAt_v1Character.gen.cpp.obj"
+"C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v2\Intermediate\Build\Win64\UE4Editor\Development\Fall2023_LookAt_v1\Fall2023_LookAt_v1GameMode.gen.cpp.obj"
+"C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v2\Intermediate\Build\Win64\UE4Editor\Development\Fall2023_LookAt_v1\Fall2023_LookAt_v1HUD.gen.cpp.obj"
+"C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v2\Intermediate\Build\Win64\UE4Editor\Development\Fall2023_LookAt_v1\Fall2023_LookAt_v1Projectile.gen.cpp.obj"
+"C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v2\Intermediate\Build\Win64\UE4Editor\Development\Fall2023_LookAt_v1\Sensor.gen.cpp.obj"
+"C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v2\Intermediate\Build\Win64\UE4Editor\Development\Fall2023_LookAt_v1\Default.rc2.res"
+/OUT:"C:\Users\Delaina\Documents\Unreal Projects\Fall2023_LookAt_v2\Intermediate\Build\Win64\UE4Editor\Development\Fall2023_LookAt_v1\UE4Editor-Fall2023_LookAt_v1-8735.lib"
